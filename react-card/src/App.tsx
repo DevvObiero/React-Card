@@ -5,8 +5,8 @@ import React from "react"
 function App() {
 
   return (
-    <div>
-      
+ <div>
+      <img src="./assets/me.png" />
 
 
  </div>
