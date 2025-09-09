@@ -8,5 +8,25 @@
 
 .card {
   padding: 2em;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
 }
 
+.image{
+  width: 20%;
+  height: auto;
+}
+.job{
+  font-size: 1em;
+  color: gray;
+  margin: 0.5em 0;
+}
+.btns{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1em;
+  gap: 40px;
+}
